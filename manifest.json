@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "spulec",
+  "repo": "uncurl",
+  "versions": [
+    {
+      "commit": "ee947f48b906b0010eacd89acf426206dfb0537f",
+      "parsed_at": "2026-10-20T20:43:05.853998+00:00",
+      "filetree": "filetree/ee947f48b906b0010eacd89acf426206dfb0537f.nq.gz",
+      "blobs": [
+        "blob/9ae18b61031608f6d964cd42e643da886c79f1af.nq.gz",
+        "blob/12120fb1a0a6919c7d1a64e1ebf6435a0cf714fc.nq.gz",
+        "blob/bca6674eac87d17a28ca57dd72204ae63cd71632.nq.gz",
+        "blob/488c1f01dbbc6f6e017f971db9e6ce81abad38ca.nq.gz",
+        "blob/7dbccfe156bb948b4e531d9458252a2b9d60bc05.nq.gz",
+        "blob/75501b2363f799107a432e21266e40a580d36211.nq.gz",
+        "blob/62f69c14fb494434f31eaf508d79a28728d9304c.nq.gz",
+        "blob/2b83f8948b545f81677a59550b88a71e8035c0e7.nq.gz",
+        "blob/0eca7008b6d6b1b92b1d6803f74dd808292130fc.nq.gz",
+        "blob/275f088bcb32cdd1274bb1b46c44e8d3a2640a1a.nq.gz",
+        "blob/90a85e7149454f173dd595bdeb884340cc01e6f6.nq.gz",
+        "blob/eacc963ed68bab9bb5fd3eece1643e932c73ec91.nq.gz",
+        "blob/7a07fa240d9331b021cef4aa9d8e106c19658c05.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
