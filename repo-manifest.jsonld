@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spulec/uncurl/commit/ee947f48b906b0010eacd89acf426206dfb0537f",
       "git:hexsha": "ee947f48b906b0010eacd89acf426206dfb0537f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T20:46:04.662254+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spulec/uncurl/commit/da3ee5e4f5e37d4c1660b7ec3c0ac26198dd7cb1",
